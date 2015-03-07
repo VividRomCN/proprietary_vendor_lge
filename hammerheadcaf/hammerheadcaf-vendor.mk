@@ -18,9 +18,8 @@
 PRODUCT_PACKAGES := \
     LiveWallpapers \
     LiveWallpapersPicker \
-    MagicSmokeWallpapers \
-    VisualizationWallpapers \
     librs_jni
+
 
 # Publish that we support the live wallpaper feature.
 PRODUCT_COPY_FILES := \
@@ -34,8 +33,7 @@ PRODUCT_PACKAGES += \
     PPPreference \
     qcrilmsgtunnel \
     shutdownlistener \
-    TimeService \
-    UpdateSetting
+    TimeService
 
 # Libs
 PRODUCT_PACKAGES += \
