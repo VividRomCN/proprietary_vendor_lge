@@ -33,7 +33,8 @@ PRODUCT_PACKAGES += \
     PPPreference \
     qcrilmsgtunnel \
     shutdownlistener \
-    TimeService
+    TimeService \
+    UpdateSetting
 
 # Libs
 PRODUCT_PACKAGES += \
